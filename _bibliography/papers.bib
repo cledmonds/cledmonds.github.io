@@ -1,36 +1,70 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@inproceedings{10.1145/3636501.3636946,
+abbr={ACM},
+author = {Edmonds, Chelsea and Paulson, Lawrence C.},
+title = {Formal Probabilistic Methods for Combinatorial Structures using the Lov\'{a}sz Local Lemma},
+year = {2024},
+isbn = {9798400704888},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+html = {https://doi.org/10.1145/3636501.3636946},
+doi = {10.1145/3636501.3636946},
+abstract = {Formalised libraries of combinatorial mathematics have rapidly expanded over the last five years, but few use one of the most important tools: probability. How can often intuitive probabilistic arguments on the existence of combinatorial structures, such as hypergraphs, be translated into a formal text? We present a modular framework using locales in Isabelle/HOL to formalise such probabilistic proofs, including the basic existence method and first formalisation of the Lov\'{a}sz local lemma, a fundamental result in probability. The formalisation focuses on general, reusable formal probabilistic lemmas for combinatorial structures, and highlights several notable gaps in typical intuitive probabilistic reasoning on paper. The applicability of the techniques is demonstrated through the formalisation of several classic lemmas on the existence of hypergraphs with certain colourings.},
+booktitle = {Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs},
+pages = {132–146},
+numpages = {15},
+keywords = {probability, hypergraph colourings, formalisation of mathematics, combinatorics, Lov\'{a}sz local lemma, Isabelle/HOL, Interactive theorem proving},
+location = {London, UK},
+series = {CPP 2024},
+bibtex_show = {true},
+award_name = {Distinguished Paper Award},
+award = {Top 10% of accepted papers},
+selected = {true}
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+
+@inproceedings{10.1145/3573105.3575680,
+abbr={ACM},
+author = {Koutsoukou-Argyraki, Angeliki and Bak\v{s}ys, Mantas and Edmonds, Chelsea},
+title = {A Formalisation of the Balog–Szemer\'{e}di–Gowers Theorem in Isabelle/HOL},
+year = {2023},
+isbn = {9798400700262},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+html = {https://doi.org/10.1145/3573105.3575680},
+doi = {10.1145/3573105.3575680},
+abstract = {We describe our formalisation in the interactive theorem prover Isabelle/HOL of the Balog–Szemer\'{e}di–Gowers Theorem, a profound result in additive combinatorics which played a central role in Gowers’s proof deriving the first effective bounds for Szemer\'{e}di’s Theorem. The proof is of great mathematical interest given that it involves an interplay between different mathematical areas, namely applications of graph theory and probability theory to additive combinatorics involving algebraic objects. This interplay is what made the process of the formalisation, for which we had to develop formalisations of new background material in the aforementioned areas, more rich and technically challenging. We demonstrate how locales, Isabelle’s module system, can be employed to handle such interplays in mathematical formalisations. To treat the graph-theoretic aspects of the proof, we make use of a new, more general undirected graph theory library developed by Edmonds, which is both flexible and extensible. In addition to the main theorem, which, following our source, is formulated for difference sets, we also give an alternative version for sumsets which required a formalisation of an auxiliary triangle inequality. We moreover formalise a few additional results in additive combinatorics that are not used in the proof of the main theorem. This is the first formalisation of the Balog–Szemer\'{e}di–Gowers Theorem in any proof assistant to our knowledge.},
+booktitle = {Proceedings of the 12th ACM SIGPLAN International Conference on Certified Programs and Proofs},
+pages = {225–238},
+numpages = {14},
+keywords = {proof assistant, probabilistic method, interactive theorem proving, graph theory, formalisation of mathematics, additive combinatorics, Isabelle/HOL},
+location = {Boston, MA, USA},
+series = {CPP 2023},
+bibtex_show = {true}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+
+@article{10.1007/s10817-022-09650-2,
+abbr={JAR},
+author = {Edmonds, Chelsea and Koutsoukou-Argyraki, Angeliki and Paulson, Lawrence C.},
+title = {Formalising Szemer\'{e}di’s Regularity Lemma and Roth’s Theorem on Arithmetic Progressions in Isabelle/HOL},
+year = {2022},
+issue_date = {Mar 2023},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+volume = {67},
+number = {1},
+issn = {0168-7433},
+html = {https://doi.org/10.1007/s10817-022-09650-2},
+doi = {10.1007/s10817-022-09650-2},
+abstract = {We have formalised Szemer\'{e}di’s Regularity Lemma and Roth’s Theorem on Arithmetic Progressions, two major results in extremal graph theory and additive combinatorics, using the proof assistant Isabelle/HOL. For the latter formalisation, we used the former to first show the Triangle Counting Lemma and the Triangle Removal Lemma: themselves important technical results. Here, in addition to showcasing the main formalised statements and definitions, we focus on sensitive points in the proofs, describing how we overcame the difficulties that we encountered.},
+journal = {Journal of Automated Reasoning},
+month = {dec},
+numpages = {21},
+bibtex_show = {true},
+keywords = {68V35, 68V20, 68V15, 03B35, 11P81, 05A17, 05C35, Number theory, Arithmetic progressions, Extremal graph theory, Additive combinatorics, Isabelle/HOL, Formalisation of mathematics, Proof assistant, Interactive theorem proving}
 }
 
 @article{PhysRev.47.777,
@@ -61,15 +95,23 @@
   inspirehep_id = {3255}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@InProceedings{edmondsfishers2022,
+  abbr={LIPIcs},
+  author =	{Edmonds, Chelsea and Paulson, Lawrence C.},
+  title =	{{Formalising Fisher’s Inequality: Formal Linear Algebraic Proof Techniques in Combinatorics}},
+  booktitle =	{13th International Conference on Interactive Theorem Proving (ITP 2022)},
+  pages =	{11:1--11:19},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  year =	{2022},
+  volume =	{237},
+  editor =	{Andronick, June and de Moura, Leonardo},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  doi =		{10.4230/LIPIcs.ITP.2022.11},
+  html = {https://doi.org/10.4230/LIPIcs.ITP.2022.11},
+  annote =	{Keywords: Isabelle/HOL, Mathematical Formalisation, Fisher’s Inequality, Linear Algebra, Formal Proof Techniques, Combinatorics},
+  bibtex_show = {true},
+  abstract = {The formalisation of mathematics is continuing rapidly, however combinatorics continues to present challenges to formalisation efforts, such as its reliance on techniques from a wide range of other fields in mathematics. This paper presents formal linear algebraic techniques for proofs on incidence structures in Isabelle/HOL, and their application to the first formalisation of Fisher’s inequality. In addition to formalising incidence matrices and simple techniques for reasoning on linear algebraic representations, the formalisation focuses on the linear algebra bound and rank arguments. These techniques can easily be adapted for future formalisations in combinatorics, as we demonstrate through further application to proofs of variations on Fisher’s inequality.}
 }
 
 @article{einstein1905movement,

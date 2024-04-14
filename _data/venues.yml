@@ -1,8 +1,8 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ACM":
+  url: https://dl.acm.org/
+  color: "#115878"
 
-"PhysRev":
+"JAR":
   url: https://journals.aps.org/
 
 "Vision":
