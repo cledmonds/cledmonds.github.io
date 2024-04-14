@@ -16,7 +16,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Welcome! I'm Chelsea, a postdoctoral Research Associate in Verification at the University of Sheffield. My primary area of expertise is proof assistants, particularly Isabelle/HOL. In my current position, I'm working on the [COVERT](https://gtr.ukri.org/projects?ref=EP%2FX015114%2F1) project to develop verification tools and models for reasoning on the security of programs running on advanced architectures. 
