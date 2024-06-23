@@ -5,7 +5,6 @@
     "image": "",
     "email": "c.l.edmonds@sheffield.ac.uk",
     "url": "https://cledmonds.github.io/",
-    "summary": "Computer Scientist interested in all things formal verification and security, STEM Education Advocate, and Ambassador for Women in STEM",
     "location": {
       "address": "Regent Court, University of Sheffield",
       "postalCode": "S14DP",
@@ -31,6 +30,7 @@
       "position": "Research Associate",
       "url": "https://www.sheffield.ac.uk/dcs",
       "startDate": "2023-10-15",
+      "endDate": " ",
       "summary": "Research Associate on the EPSRC COVERT Grant exploring ''Safe and secure COncurrent programming for adVancEd aRchiTectures'' (PI's Prof. John Derrick & Dr. Andrei Popescu), a joint project with the University of Surrey and University of Kent"
     },
     {
@@ -47,29 +47,25 @@
   "education": [
     {
       "institution": "University of Cambridge",
-      "location": "Cambridge, UK",
       "url": "https://www.cst.cam.ac.uk/",
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2019-10-01",
-      "endDate":"2024-05",
-      "summary": "Supervised by Prof. Lawrence C.Paulson on thesis titled \"Formal Combinatorial Structures and Proof Techniques in Isabelle/HOL\". Developed new techniques for formally defining mathematical hierarchies, new libraries for combinatorial structures, and formal proof techniques. Viva passed January 2024, and currently awaiting final degree confirmation."
+      "endDate":"2024-06-04",
+      "summary": "Completed thesis titled 'Formal Combinatorial Structures and Proof Techniques in Isabelle/HOL'. Supervised by Prof. Lawrence C.Paulson, Funded by a Cambridge Australia Scholarship and the Department of Computer Science."
     },
     {
       "institution": "University of Queensland",
-      "location": "Brisbane, AU",
       "url": "https://www.uq.edu.au/",
-      "area": "Engineering (Software)/Science (Mathematics)",
+      "area": "Engineering Hons I (Software)/Science (Mathematics)",
       "studyType": "Bachelor (Dual Degree)",
       "startDate": "2012-02-01",
       "endDate": "2017-07-01",
       "summary": "Achieved first class honours and a University Medal, Class of 2017 Future Leader, UQ EAIT Scholar. Completed a highly commended honours thesis (\"A Model Instantiation of a Rely-Guarantee Algebra\") supervised by Dr Larissa Meinicke and Prof Ian Hayes. Studied abroad for a semester at the University of Edinburgh",
-      "score": "6.75/7 GPA",
-      "courses": ["Algorithms", "Formal Methods", "Python", "Java", "C", "Machine Learning", "Security", "Coding and Cryptography", "etc"]
+      "score": "6.75/7 GPA"
     },
     {
       "institution": "Australian Music Examinations Board",
-      "location": "Brisbane, AU",
       "url": "https://www.ameb.edu.au/",
       "area": "Violin",
       "studyType": "Diploma, AMusA",
@@ -84,16 +80,14 @@
       "url": "https://www.dcsa.darwin.cam.ac.uk/",
       "startDate": "2022-06-01",
       "endDate": "2023-06-01",
-      "summary": "Responsible for leading a group of 23 student volunteers to support the 800-person graduate student community through running college wide initiatives, student communications, supporting sports/societies, peer welfare support, and organising social events. Served as a member of the main College Council, alongside various other college committees. Previously Sports and Societies officer 2021/22",
-      "highlights": ["successful Fresher's welcome fortnight", "implementation of new initiatives to connect fellows and students", "EDI sucesses (e.g. Women in Academia Program)", "established cost of living working group", "transparent communication initiatives", "implemented central record keeping", "student representative on university postgraduate mental health taskforce."]
+      "summary": "Responsible for leading a group of 23 student volunteers to support the 800-person graduate student community. Previously Sports and Societies officer 2021/22"
     },
     {
       "organization": "Women@CL",
       "position": "Mentoring and Outreach Co-chair",
       "url": "https://www.cst.cam.ac.uk/women",
       "startDate": "2020-08-01",
-      "endDate": "2022-07-31",
-      "summary": "Responsible for the Computer Science Departments \"Big Sister Little Sister\" peer mentoring program and organised events such as roundtable and panel discussions to encourage mentoring across the department"
+      "endDate": "2022-07-31"
     },
     {
       "organization": " Robogals Asia Pacific",
@@ -101,8 +95,7 @@
       "url": "https://robogals.org/locations/asia-pacific-apac/",
       "startDate": "2015-07-01",
       "endDate": "2018-10",
-      "summary": "Robogals is an international not-for-profit aiming to inspire, engage, and empower young women into STEM careers. As REO, I was a member of the global leadership team, and led the APAC team to run regional initiatives and support 15 chapters in 5 countries.",
-      "highlights": ["Rebuilt regions partnerships, chapter support, and cultural awareness strategies", "developed an Alumni program", "led the organisation to achieve a Highly Commended Engineers Australia Diversity Award (not-for-profit category)"]
+      "summary": "Robogals is an international not-for-profit aiming to inspire, engage, and empower young women into STEM careers."
     },
     {
       "organization": "Robogals Brisbane",
@@ -110,15 +103,15 @@
       "url": "https://robogals.org/locations/asia-pacific-apac/brisbane/",
       "startDate": "2012-02-01",
       "endDate": "2015-06",
-      "summary": "The local branch of Robogals for the University of Queensland. As President (and previously secretary), I rebuilt the chapter from 3 volunteers to a growing and stable chapter of over 40 volunteers and many external supporters. Additionally designed and led LEGO Mindstorms workshops for 6 to 18 year olds, logging over 165 individual teaching hours across 80 workshops."
+      "summary": "The local branch of Robogals for the University of Queensland."
     },
     {
       "organization": "University of Queensland",
-      "position": "President/Secretary/Volunteer",
+      "position": "Student Mentor/Ambassador",
       "startDate": "2012-02-01",
       "endDate": "2017-06",
       "summary": "Actively involved in many parts of the university community",
-      "highlights": ["Student Mentor for the UQ Young Scholars Program (2016 - 2017), an academic extension and enrichment opportunity for high achieving high school students", "Women in Engineering Student Leader (2014 - 2015), an award winning initiative which sucessfully incresed gender diversity across the faculty", "ICT Ambassador (2012 - 2014), representing the university at Open Days and study expos."]
+      "highlights": ["Student Mentor for the UQ Young Scholars Program (2016 - 2017)", "Women in Engineering Student Leader (2014 - 2015)", "ICT Ambassador (2012 - 2014)"]
     }
   ],
   
