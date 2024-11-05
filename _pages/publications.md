@@ -12,10 +12,6 @@ My publications are listed in reverse chronological order below. They are catego
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
 <div class="publications">
 
   <h2 class="pub-type"><a name="pubs">Published Papers</a></h2>
