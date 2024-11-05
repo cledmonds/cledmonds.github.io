@@ -4,6 +4,12 @@
 
 "JAR":
   url: https://journals.aps.org/
+  color: "#004729"
 
-"Vision":
-  color: "#009f36"
+"LNCS":
+  url: https://www.springer.com/series/0558/
+  color: "#962144"
+
+"LIPIcs":
+  url: https://drops.dagstuhl.de/entities/series/LIPIcs
+  color: "#F5C025"

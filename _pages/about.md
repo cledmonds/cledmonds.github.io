@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Associate @ <a href='https://www.sheffield.ac.uk/dcs'>University of Sheffield</a>. Cambridge Australia Scholar. PhD BE (Hons I) BSc AFHEA AMusA
+
 
 profile:
   align: right
