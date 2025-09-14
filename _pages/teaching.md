@@ -8,11 +8,11 @@ nav_order: 7
 ---
 
 ### Current Teaching
-At Sheffield, I'm currently a Teaching Assistant for the following courses: 
+At Sheffield, I've been a Teaching Assistant for the following courses: 
 - Software Hut (capstone software engineering group project)
 - Logic (also guest lecturer)
 
-I'll also be a lecturer at the Midlands Graduate School in 2025, see the course web page [here](/mgs2025).
+I was also a lecturer at the Midlands Graduate School in 2025, see the course web page [here](/mgs2025).
 
 ### Past Teaching
 At Cambridge, I supervised (i.e. small group tutoring) for four colleges on a number of different courses:
