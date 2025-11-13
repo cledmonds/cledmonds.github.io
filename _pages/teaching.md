@@ -8,14 +8,38 @@ nav_order: 7
 ---
 
 ### Current Teaching
-At Sheffield, I've been a Teaching Assistant for the following courses: 
+
+##### Undergraduate Teaching
+
+In 2026, I'll be a lecturer on the following courses:
+- Object Oriented Programming (CITS2005)
+- Computational Thinking with Python (CITS1401)
+
+##### Honours Projects
+
+If you are a UWA honours student interested in doing a project on formal verification (e.g., verifying something in an interactive proof assistant, or building tooling to support the use of such software), please feel free to get in touch! See the honours course project website for possible projects (coming soon!).
+
+##### PhD 
+
+If you are interested in doing a PhD in formal verification, it'd be great to hear from you! FIRST READ [THIS ADVICE](/prospectivephd). 
+
+##### ANU Logic Summer School
+
+I will be a Lecturer at the [ANU Logic Summer School](https://comp.anu.edu.au/lss/) in December 2025. Course web page coming soon! 
+
+
+
+### Past Teaching
+
+##### University of Sheffield
+
+I was a Teaching Assistant for the following courses: 
 - Software Hut (capstone software engineering group project)
 - Logic (also guest lecturer)
 
-I was also a lecturer at the Midlands Graduate School in 2025, see the course web page [here](/mgs2025).
+##### Cambridge University
 
-### Past Teaching
-At Cambridge, I supervised (i.e. small group tutoring) for four colleges on a number of different courses:
+I supervised (i.e. small group tutoring) for four colleges on a number of different courses:
 - IB Logic and Proof (Lent 2020/2022/2023)
 - IA Discrete Mathematics (Michaelmas 2020/2021, Lent 2020/2021/2022)
 - IA Algorithms (Lent 2021)
@@ -24,10 +48,16 @@ At Cambridge, I supervised (i.e. small group tutoring) for four colleges on a nu
 
 I was additionally a secondary supervisor for a summer research internship.
 
-At the University of Queensland I was a tutor/demonstrator for three courses:
+##### University of Queensland
+
+I was a tutor/demonstrator for three courses:
 - CSSE1001: Introduction to Software Engineering (2015 - 2017)
 - CSSE2002: Software Engineering in the Large (2017)
 - MATH1061: Discrete Mathematics (2014 - 2016)
+
+##### Research Schools
+
+I was a lecturer at the [Midlands Graduate School](https://www.andreipopescu.uk/MGS_Sheffield/MGS2025.html) in 2025, see the course web page [here](/mgs2025).
 
 ### Teaching Qualifications and Awards
 

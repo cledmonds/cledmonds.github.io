@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Chelsea L Edmonds",
-    "label": "Computer Scientist",
+    "label": "Lecturer",
     "image": "",
-    "email": "c.l.edmonds@sheffield.ac.uk",
+    "email": "chelsea.edmonds@uwa.edu.au",
     "url": "https://cledmonds.github.io/",
     "location": {
-      "address": "Regent Court, University of Sheffield",
-      "postalCode": "S14DP",
-      "city": "Sheffield",
-      "countryCode": "UK"
+      "address": "Department of Computer Science and Software Engineering, University of Western Australia",
+      "postalCode": "6009",
+      "city": "Crawley, Perth",
+      "countryCode": "AU"
     },
     "profiles": [
       {
@@ -26,11 +26,19 @@
   },
   "work": [
     {
+      "name": "University of Western Australia",
+      "position": "Lecturer",
+      "url": "https://www.uwa.edu.au/schools/physics-mathematics-computing/department-of-computer-science-and-software-engineering",
+      "startDate": "2025-11-01",
+      "endDate": " ",
+      "summary": "Continuing teaching and research position (equiv. US Assistant Professor)"
+    },
+    {
       "name": "Department of Computer Science, University of Sheffield",
       "position": "Research Associate",
-      "url": "https://www.sheffield.ac.uk/dcs",
+      "url": "https://www.sheffield.ac.uk/cs",
       "startDate": "2023-10-15",
-      "endDate": " ",
+      "endDate": "2025-10-03",
       "summary": "Research Associate on the EPSRC COVERT Grant exploring ''Safe and secure COncurrent programming for adVancEd aRchiTectures'' (PI's Prof. John Derrick & Dr. Andrei Popescu), a joint project with the University of Surrey and University of Kent"
     },
     {
