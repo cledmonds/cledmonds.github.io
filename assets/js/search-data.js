@@ -92,6 +92,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-on-the-review-committee-for-pldi-2026-the-conference-will-be-in-colorado-from-the-15th-to-19th-of-june-and-the-final-call-for-papers-is-on-the-conference-website",
           title: 'I’m on the review committee for PLDI 2026. The conference will be in...',
           description: "",
+          section: "News",},{id: "news-two-papers-from-my-postdoc-were-published-this-week-a-jar-paper-on-relative-security-for-reasoning-on-spectre-like-vulnerabilities-in-isabelle-hol-and-an-ifm-2025-paper-on-model-checking-buffered-durable-linearizability-for-concurrent-data-structures-in-non-volatile-memory-environments",
+          title: 'Two papers from my postdoc were published this week! A JAR paper on...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
