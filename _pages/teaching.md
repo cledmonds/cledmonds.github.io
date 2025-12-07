@@ -17,7 +17,7 @@ In 2026, I'll be a lecturer on the following courses:
 
 ##### Honours Projects
 
-If you are a UWA honours student interested in doing a project on formal verification (e.g., verifying something in an interactive proof assistant, or building tooling to support the use of such software), please feel free to get in touch! See the honours course project website for possible projects (coming soon!).
+If you are a UWA honours student interested in doing a project on formal verification (e.g., verifying something in an interactive proof assistant, or building tooling to support the use of such software), please feel free to get in touch! See the honours course project website for possible projects (more coming soon).
 
 ##### PhD 
 
@@ -25,8 +25,7 @@ If you are interested in doing a PhD in formal verification, it'd be great to he
 
 ##### ANU Logic Summer School
 
-I will be a Lecturer at the [ANU Logic Summer School](https://comp.anu.edu.au/lss/) in December 2025. Course web page coming soon! 
-
+I will be a Lecturer at the [ANU Logic Summer School](https://comp.anu.edu.au/lss/) in December 2025. See the course web page [here](/anulss2025)
 
 
 ### Past Teaching
@@ -48,24 +47,17 @@ I supervised (i.e. small group tutoring) for four colleges on a number of differ
 
 I was additionally a secondary supervisor for a summer research internship.
 
-<<<<<<< HEAD
 ##### University of Queensland
 
 I was a tutor/demonstrator for three courses:
-=======
-At the University of Queensland I was a tutor/demonstrator for three courses:
->>>>>>> b3ac9fc0640096a99788fb145996b39cb906edce
 - CSSE1001: Introduction to Software Engineering (2015 - 2017)
 - CSSE2002: Software Engineering in the Large (2017)
 - MATH1061: Discrete Mathematics (2014 - 2016)
 
-<<<<<<< HEAD
 ##### Research Schools
 
 I was a lecturer at the [Midlands Graduate School](https://www.andreipopescu.uk/MGS_Sheffield/MGS2025.html) in 2025, see the course web page [here](/mgs2025).
 
-=======
->>>>>>> b3ac9fc0640096a99788fb145996b39cb906edce
 ### Teaching Qualifications and Awards
 
 I'm an Associate Fellow with AdvanceHE (awarded in 2022). I'm happy to provide my teaching portfolio on request. In the same year, I was delighted to be awarded the [Silvia Breu Teaching Prize](https://www.queens.cam.ac.uk/life-at-queens/news-and-events/the-silvia-breu-teaching-prize-in-computer-science) for best Computer Science Supervisor at Queens College, thanks to nominations by my fantastic students.
