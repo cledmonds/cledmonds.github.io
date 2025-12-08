@@ -33,8 +33,8 @@ The course materials (draft) are available below. More material will become avai
 
 | Day | Lecture Notes   | Isabelle Theories| Solutions |
 | --- | --------------- | ---------------- | ------------|
-| Monday | <a href="../assets/pdf/lecture1_anu_lss.pdf"> Lecture 1</a> | <a href="../assets/code/lecture1_anu_lss.zip"> Isabelle 1 Zip</a>  | |
-| Tuesday | | | |
+| Monday | <a href="../assets/pdf/lecture1_anu_lss.pdf"> Lecture 1</a> | <a href="../assets/code/lecture1_anu_lss.zip"> Isabelle 1 Zip</a>  | See lecture 2|
+| Tuesday | <a href="../assets/pdf/lecture2_anu_lss.pdf"> Lecture 2</a> | <a href="../assets/code/lecture2_anu_lss.zip"> Isabelle 2 Zip</a> | |
 | Wednesday | | | |
 | Thursday |  |  | |
 | Friday |  |  | |
