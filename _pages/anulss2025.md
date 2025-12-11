@@ -37,7 +37,7 @@ The course materials (draft) are available below. More material will become avai
 | Tuesday | <a href="../assets/pdf/lecture2_anu_lss.pdf"> Lecture 2</a> | <a href="../assets/code/lecture2_anu_lss.zip"> Isabelle 2 Zip</a> | |
 | Wednesday | <a href="../assets/pdf/lecture3_anu_lss.pdf"> Lecture 3</a> | <a href="../assets/code/lecture3_anu_lss.zip"> Isabelle 3 Zip</a>  | |
 | Thursday | <a href="../assets/pdf/lecture4_anu_lss.pdf"> Lecture 4</a> | <a href="../assets/code/lecture4_anu_lss.zip"> Isabelle 4 Zip</a> | |
-| Friday |  |  | |
+| Friday | <a href="../assets/pdf/lecture5_anu_lss.pdf"> Lecture 5</a> | <a href="../assets/code/lecture5_anu_lss.zip"> Isabelle 5 Zip</a> | |
 
 ## Other Useful Resources
 
@@ -46,3 +46,5 @@ For more information on Isabelle/detail on different features, see:
 - For program verification, consider Nipkow and Klein's [Concrete Semantics](http://concrete-semantics.org/) book
 - For history, interesting notes, and more detailed examples, the [Machine Logic blog](https://lawrencecpaulson.github.io/) by Larry Paulson may prove interesting.
 - For more on induction and coinduction, with Isabelle/HOL examples, see Andrei Popescu's excellent [course notes](https://www.andreipopescu.uk/MGS2021/ISA_course.html).
+- For more on modular proofs and using locales in Isabelle, 
+I explore this further in materials from my [MGS 2025 course](/mgs2025).
