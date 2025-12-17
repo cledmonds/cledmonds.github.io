@@ -23,11 +23,6 @@ If you are a UWA honours student interested in doing a project on formal verific
 
 If you are interested in doing a PhD in formal verification, it'd be great to hear from you! FIRST READ [THIS ADVICE](/prospectivephd). 
 
-##### ANU Logic Summer School
-
-I will be a Lecturer at the [ANU Logic Summer School](https://comp.anu.edu.au/lss/) in December 2025. See the course web page [here](/anulss2025)
-
-
 ### Past Teaching
 
 ##### University of Sheffield
@@ -57,6 +52,8 @@ I was a tutor/demonstrator for three courses:
 ##### Research Schools
 
 I was a lecturer at the [Midlands Graduate School](https://www.andreipopescu.uk/MGS_Sheffield/MGS2025.html) in 2025, see the course web page [here](/mgs2025).
+
+I was also a lecturer at the [ANU Logic Summer School](https://comp.anu.edu.au/lss/) in December 2025. See the course web page [here](/anulss2025)
 
 ### Teaching Qualifications and Awards
 

@@ -107,3 +107,44 @@ bibtex_show = {true}
 
 
 
+@article{DerrickRelSec2025,
+  abbr = {JAR},
+	abstract = {Meltdown and Spectre are vulnerabilities known as transient execution vulnerabilities, where an attacker exploits speculative execution (a semantic optimization present in most modern processors) to break confidentiality. We introduce relative security, a general notion of information-flow security that models this type of vulnerability by contrasting the leaks that are possible in a ``vanilla''semantics with those possible in a different semantics, often obtained from the vanilla semantics via some optimizations. We describe incremental proof methods, in the style of Goguen and Meseguer's unwinding, both for proving and for disproving relative security, and deploy these to formally establish the relative (in)security of some standard Spectre examples. Both the abstract results and the case studies have been mechanized in the Isabelle/HOL theorem prover. This paper is an extension of an earlier conference paper that provides significantly more detail on the Isabelle formalization and the unwinding proof process.},
+	author = {Derrick, John and Dongol, Brijesh and Edmonds, Chelsea and Griffin, Matt and Popescu, Andrei and Wright, Jamie},
+	date = {2025/11/18},
+	date-added = {2025-12-16 12:26:01 +0800},
+	date-modified = {2025-12-16 12:26:01 +0800},
+	doi = {10.1007/s10817-025-09744-7},
+	id = {DerrickRelSec2025},
+	isbn = {1573-0670},
+	journal = {Journal of Automated Reasoning},
+	number = {4},
+	pages = {31},
+	title = {Relative Security: (Dis)Proving Resilience Against Semantic Optimization Vulnerabilities in Isabelle/HOL},
+	html = {https://doi.org/10.1007/s10817-025-09744-7},
+	volume = {69},
+	year = {2025},
+  bibtex_show = {true}}
+
+
+@InProceedings{EdmondsCSP2026,
+abbr="LNCS",
+author="Edmonds, Chelsea
+and Derrick, John
+and Dongol, Brijesh
+and Schellhorn, Gerhard
+and Wehrheim, Heike",
+editor="Damiani, Ferruccio
+and Farrell, Marie",
+title="Model Checking Buffered Durable Linearizability in CSP",
+booktitle="Integrated Formal Methods",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="120--139",
+bibtex_show = {true},
+abstract="Non-volatile memory (NVM) is a high-performance memory technology that supports persistency (i.e., durability) of data in case of a system crash (e.g., power failure). For implementations of concurrent objects (e.g., concurrent data structures such as stacks and hash maps), NVM poses a correctness problem: can the implementation recover to a consistent state after a crash and continue execution? In this paper, we study a notion of correctness known as buffered durable linearizability for implementations of periodically persistent concurrent objects, and develop a refinement-based proof method for buffered durable linearizability. To support our proofs, we develop a generic abstract specification of a buffered durable linearizable object that is generated from the object's sequential specification. Our main case study is a concurrent hash map known as Dal{\'i}, which we show satisfies buffered durable linearizability. Specifically, we use FDR, a model checker based on CSP, that offers a fully automatic method for checking trace refinement.",
+isbn="978-3-032-10794-7",
+html={https://link.springer.com/chapter/10.1007/978-3-032-10794-7_7},
+doi={10.1007/978-3-032-10794-7_7}
+}

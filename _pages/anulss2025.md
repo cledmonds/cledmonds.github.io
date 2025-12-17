@@ -29,15 +29,15 @@ The schedule is available on the ANU LSS website.
 
 All students should pre-install Isabelle/HOL - see the [Isabelle website](https://isabelle.in.tum.de/).
 
-The course materials (draft) are available below. More material will become available throughout the week - please check for updates. 
+The course materials are available below. Feedback is welcome.
 
 | Day | Lecture Notes   | Isabelle Theories| Solutions |
 | --- | --------------- | ---------------- | ------------|
-| Monday | <a href="../assets/pdf/lecture1_anu_lss.pdf"> Lecture 1</a> | <a href="../assets/code/lecture1_anu_lss.zip"> Isabelle 1 Zip</a>  | See lecture 2|
-| Tuesday | <a href="../assets/pdf/lecture2_anu_lss.pdf"> Lecture 2</a> | <a href="../assets/code/lecture2_anu_lss.zip"> Isabelle 2 Zip</a> | |
-| Wednesday | <a href="../assets/pdf/lecture3_anu_lss.pdf"> Lecture 3</a> | <a href="../assets/code/lecture3_anu_lss.zip"> Isabelle 3 Zip</a>  | |
-| Thursday | <a href="../assets/pdf/lecture4_anu_lss.pdf"> Lecture 4</a> | <a href="../assets/code/lecture4_anu_lss.zip"> Isabelle 4 Zip</a> | |
-| Friday | <a href="../assets/pdf/lecture5_anu_lss.pdf"> Lecture 5</a> | <a href="../assets/code/lecture5_anu_lss.zip"> Isabelle 5 Zip</a> | |
+| Monday | <a href="../assets/pdf/lecture1_anu_lss.pdf"> Lecture 1</a> | <a href="../assets/code/lecture1_anu_lss.zip"> Isabelle 1 Zip</a>  | See Lecture 2 |
+| Tuesday | <a href="../assets/pdf/lecture2_anu_lss.pdf"> Lecture 2</a> | <a href="../assets/code/lecture2_anu_lss.zip"> Isabelle 2 Zip</a> | <a href="../assets/code/lecture2_sol_anu_lss.zip"> Isabelle 2 Sol Zip</a> |
+| Wednesday | <a href="../assets/pdf/lecture3_anu_lss.pdf"> Lecture 3</a> | <a href="../assets/code/lecture3_anu_lss.zip"> Isabelle 3 Zip</a>  |  <a href="../assets/code/lecture3_anu_lss.zip"> Isabelle 3 Sol Zip</a> |
+| Thursday | <a href="../assets/pdf/lecture4_anu_lss.pdf"> Lecture 4</a> | <a href="../assets/code/lecture4_anu_lss.zip"> Isabelle 4 Zip</a> | <a href="../assets/code/lecture4_anu_lss.zip"> Isabelle 4 Sol Zip</a> |
+| Friday | <a href="../assets/pdf/lecture5_anu_lss.pdf"> Lecture 5</a> | <a href="../assets/code/lecture5_anu_lss.zip"> Isabelle 5 Zip</a> | <a href="../assets/code/lecture5_anu_lss.zip"> Isabelle 5 Sol Zip</a> |
 
 ## Other Useful Resources
 
