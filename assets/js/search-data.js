@@ -95,6 +95,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-from-my-postdoc-were-published-this-week-a-jar-paper-on-relative-security-for-reasoning-on-spectre-like-vulnerabilities-in-isabelle-hol-and-an-ifm-2025-paper-on-model-checking-buffered-durable-linearizability-for-concurrent-data-structures-in-non-volatile-memory-environments",
           title: 'Two papers from my postdoc were published this week! A JAR paper on...',
           description: "",
+          section: "News",},{id: "news-this-week-i-was-based-at-anu-as-one-of-the-invited-lecturers-for-the-33rd-anu-logic-summer-school-my-course-materials-will-remain-online-here",
+          title: 'This week I was based at ANU as one of the invited lecturers...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
